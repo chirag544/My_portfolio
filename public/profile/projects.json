@@ -3,7 +3,7 @@
         {
 
             "title": "E-commerce App",
-            "bodyText": "- Designed and implemented RESTful APIs for product management, user authentication, and order processing, enabling seamless interaction between the frontend and backend.\n - Integrated payment gateway APIs for secure transaction processing, reducing payment failures by 15%.\n- Implemented database indexing and optimized SQL queries, resulting in a 20% reduction in page load times.",
+            "bodyText": "- Designed and implemented RESTful APIs for product management, user authentication, and order processing, enabling seamless interaction between the frontend and backend.\n- Utilized design patterns like Observer for real-time inventory updates and Factory for consistent object creation, enhancing code scalability and reusability\n - Integrated payment gateway APIs for secure transaction processing, reducing payment failures by 15%.\n- Implemented database indexing and optimized SQL queries, resulting in a 20% reduction in page load times.",
             "links": [
                 {
                     "text": "GitHub",
