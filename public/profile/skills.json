@@ -28,7 +28,11 @@
                 {
                     "icon": "images/skills/postgres.jpeg",
                     "title": "PostgresSQL"
+                },{
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
                 }
+
             ]},
         {
             "title": "Frameworks & Technologies",
@@ -38,16 +42,16 @@
                     "title": "SpringBoot"
                 },
                 {
+                    "icon": "images/skills/angular.png",
+                    "title": "Angular"
+                },
+                {
                     "icon": "images/skills/maven.jpeg",
                     "title": "Maven"
                 },
                 {
                     "icon": "images/skills/mockito.png",
                     "title": "Mockito"
-                },
-                {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
                 },
                 {
                     "icon": "images/skills/aws.png",

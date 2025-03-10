@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7adb275f-c61f-4684-835b-ac9e48552b6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/skills/angular.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/profile/about.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/profile/about.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/profile/experiences.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/profile/experiences.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/profile/skills.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/profile/skills.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,17 +44,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Mani/Downloads/ALL PORTFOLIO/dev-portfolio - original",
+    "last_opened_file_path": "C:/Users/Mani/Downloads/ALL PORTFOLIO/dev-portfolio - original/public/images/skills",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mani\Downloads\ALL PORTFOLIO\dev-portfolio - original\public\images\skills" />
       <recent name="C:\Users\Mani\Downloads\ALL PORTFOLIO\dev-portfolio\public\images\projects" />
       <recent name="C:\Users\Mani\Downloads\ALL PORTFOLIO\dev-portfolio\public\images\skills" />
       <recent name="C:\Users\Mani\Downloads\ALL PORTFOLIO\dev-portfolio\public\images\about" />
       <recent name="C:\Users\Mani\Downloads\ALL PORTFOLIO\dev-portfolio\public" />
-      <recent name="C:\Users\Mani\Downloads\ALL PORTFOLIO\dev-portfolio\public\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mani\Downloads\ALL PORTFOLIO\dev-portfolio - original\public" />
