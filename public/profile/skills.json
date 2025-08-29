@@ -4,6 +4,14 @@
      
             "title": "Languages & Databases",
             "items" : [
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
      
                 {
                     "icon": "images/skills/java.png",
@@ -14,21 +22,15 @@
                     "title": "Python"
                 },
                 {
-                    "icon": "images/skills/html.png",
-                    "title": "HTML"
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
                 },
-                {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
-                },
+
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
                 },
                 {
-                    "icon": "images/skills/postgres.jpeg",
-                    "title": "PostgresSQL"
-                },{
                     "icon": "images/skills/typescript.png",
                     "title": "TypeScript"
                 }
@@ -38,13 +40,18 @@
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/spring.jpeg",
-                    "title": "SpringBoot"
+                    "icon": "images/skills/react.png",
+                    "title": "React"
                 },
                 {
                     "icon": "images/skills/angular.png",
                     "title": "Angular"
                 },
+                {
+                    "icon": "images/skills/spring.jpeg",
+                    "title": "SpringBoot"
+                },
+
                 {
                     "icon": "images/skills/maven.jpeg",
                     "title": "Maven"
@@ -73,6 +80,10 @@
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/postgres.jpeg",
+                    "title": "PostgresSQL"
                 },
                 {
                     "icon": "images/skills/juypter.jpeg",

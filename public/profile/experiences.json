@@ -1,7 +1,19 @@
 {
     "experiences": [
         {
-            "title": "Full Stack Engineer ",
+            "title": "",
+            "subtitle": "MSG Global Solutions, Bengaluru",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed optimized React components for dynamic data tables using React.memo and virtualization (react-window), improving UI performance and responsiveness.",
+                "Implemented dynamic routing with React Router and lazy loading to enable smooth navigation to detailed views, reducing initial load time.",
+                "Enhanced state management and data flow with React Context API and custom hooks, reducing data load time by 30% and improving user experience.",
+                "Created a reusable form builder in React with input validation and error handling, allowing flexible form creation and minimizing user input errors."
+            ],
+            "dateText": "Feb '25 – Present"
+        },
+        {
+            "title": "",
             "subtitle": "A.P. Moller Maersk, Bengaluru",
             "workType": "Internship",
             "workDescription": [
@@ -11,18 +23,8 @@
                 "Monitoring and Performance: Utilized Grafana and Prometheus for real-time performance tracking, reducing issue resolution time by 25% and enhancing system reliability."
             ],
             "dateText": "Apr '24 – Oct '24"
-        },
-        {
-            "title": "Full Stack Engineer ",
-            "subtitle": "MSG Global Solutions, Bengaluru",
-            "workType": "Internship",
-            "workDescription": [
-                "Developed an optimized Angular component with a dynamic data table, utilizing efficient change detection and virtual scrolling for improved performance.",
-                "Integrated dynamic routing to enable seamless navigation to a detailed view upon user interaction with a specific data entry." ,
-                "Enhanced data binding and state management to efficiently fetch and display detailed information, reducing load time by 30% and improving user experience."
-                ],
-            "dateText": "Feb '25 – Present"
         }
+
 
     ]
 }
