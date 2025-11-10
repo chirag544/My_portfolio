@@ -44,7 +44,7 @@ function Education(props) {
       <Header title={header} />
       {data ? (
         <Fade>
-          <div style={{ width }} className="section-content-container">
+          <div style={{ width, '--chrono-date-color': theme.mode === 'dark' ? '#fff' : '#000' }} className="section-content-container">
             <Container>
               <Chrono
                 hideControls

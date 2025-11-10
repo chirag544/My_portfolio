@@ -66,6 +66,9 @@ $ npm audit fix --force
 # Start the development server
 $ npm start
 ```
+(npm install --legacy-peer-deps
+npm install react-scripts@latest --save --legacy-peer-deps
+npx react-scripts start)
 
 Using Yarn: Be aware of that you'll need to delete the `package-lock.json` file if exists before executing the below commands.
 

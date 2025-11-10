@@ -17,3 +17,7 @@
         width: 15% !important;
     }
 }
+
+.timeline-date {
+  color: var(--chrono-date-color) !important;
+}

@@ -3,12 +3,11 @@
         {
             "title": "",
             "subtitle": "MSG Global Solutions, Bengaluru",
-            "workType": "Internship",
+            "workType": "Associate Consultant",
             "workDescription": [
-                "Developed optimized React components for dynamic data tables using React.memo and virtualization (react-window), improving UI performance and responsiveness.",
-                "Implemented dynamic routing with React Router and lazy loading to enable smooth navigation to detailed views, reducing initial load time.",
-                "Enhanced state management and data flow with React Context API and custom hooks, reducing data load time by 30% and improving user experience.",
-                "Created a reusable form builder in React with input validation and error handling, allowing flexible form creation and minimizing user input errors."
+                "work in the insurance domain, building dynamic data entry tables integrated with standardized code tables for accurate data management.",
+                "I optimize React components with React.memo and react-window, implement dynamic routing with lazy loading, and improve state management using Context API and custom hooks.",
+                "I also created a reusable form builder with validation, reducing errors and speeding up development."
             ],
             "dateText": "Feb '25 – Present"
         },
